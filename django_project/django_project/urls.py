@@ -1,6 +1,4 @@
-
-
-#project level urls file
+# project level urls file
 
 """django_project URL Configuration
 
@@ -19,6 +17,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+
 # from new_app import views
 # from new_app import
 
